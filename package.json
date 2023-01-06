@@ -12,5 +12,16 @@
     "next": "13.0.7",
     "react": "18.2.0",
     "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@chakra-ui/react": "^2.4.4",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "axios": "^1.2.1",
+    "framer-motion": "^7.10.3",
+    "millify": "^5.0.1",
+    "nprogress": "^0.2.0",
+    "react-horizontal-scrolling-menu": "^3.2.3",
+    "react-icons": "^4.7.1"
   }
 }
